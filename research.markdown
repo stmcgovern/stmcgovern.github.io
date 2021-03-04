@@ -31,7 +31,7 @@ Below are a series of naturally occurring examples of sedimentary rock stratigra
 ![medium scale](/assets/images/roadrocks1.jpg)
 * Above: Stratigraphy on a larger scale
 
-![large scale](/assets/images/kayakrock.jpg)
+![large scale](/assets/images/kayakrock1.jpg)
 * Above: Stratigraphy on again a larger scale
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
