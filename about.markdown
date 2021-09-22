@@ -13,5 +13,5 @@ Through using computational tools, like the numerical solution of partial differ
 
 + I completed a PhD (*Doctor rerum naturalium*) in Geophysics at the University of Bonn, Germany in 2020. I conducted my research mainly at the *Forschungszentrum Juelich* (Research Center Juelich) in the Institute for Bio-and Geosciences 3 - Agrosphere. My advisor was Prof. Stefan Kollet.
 
-![My image Name](/assets/images/seaandme1.jpg)
+![My image Name](/assets/images/mont_chauve_smaller.jpg)
 <!-- ![My image Name](/assets/images/applerock1.jpg) -->
